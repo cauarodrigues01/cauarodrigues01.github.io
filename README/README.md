@@ -1,3 +1,6 @@
+Nome: Cauã Rodrigues Ramos
+RM: 555373
+
 LOJA SUSTENTÁVEL
 
 Este é um projeto de um e-commerce focado em produtos sustentáveis. A loja oferece uma variedade de produtos ecologicamente corretos, como roupas, utensílios domésticos, itens para uso diário e acessórios, todos voltados para a promoção de um estilop de vida mais consciente e sustentável.
